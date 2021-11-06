@@ -5,4 +5,5 @@
     <bitmap android:src="@drawable/mariachi_splash"
         android:gravity="center"/>
 </item>
+
 </layer-list>
